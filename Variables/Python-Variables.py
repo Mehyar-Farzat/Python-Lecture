@@ -55,6 +55,14 @@ Banana
 Banana
 Banana
 ----------------------------------------------
+we can create a tuple with one value by adding (,) after the value
+x = (3 ,)
+print(type(x))
+<class 'tuple'>
+y = ('ahmed' ,)
+print(type(y))
+<class 'tuple'>
+----------------------------------------------
 
 
 
